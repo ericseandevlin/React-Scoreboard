@@ -2,7 +2,7 @@
 
 Basic project or learning React.
 
-Add / Delete Players
-Increase / Decrease score
-total players and score
-Start / Stop / Reset Timer
+Add / Delete Players_
+Increase / Decrease score_
+total players and score_
+Start / Stop / Reset Timer_
